@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>SS.HelloWorld</id>
+    <version>1.0.0</version>
+    <title>HelloWorld插件</title>
+    <authors>SiteServer CMS</authors>
+    <owners>siteserver</owners>
+    <licenseUrl>https://github.com/siteserver/SS.HelloWorld/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/siteserver/SS.HelloWorld</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+    <description>HelloWorld插件</description>
+    <copyright>Copyright ©2018 SiteServer CMS</copyright>
+    <tags>SiteServer CMS HelloWorld Plugin</tags>
+  </metadata>
+</package>
